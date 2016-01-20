@@ -1,0 +1,1 @@
+{:require [modern-cljs.core modern-cljs.login modern-cljs.shopping adzerk.boot-reload adzerk.boot-cljs-repl], :compiler-options {:asset-path "js/main.out"}}

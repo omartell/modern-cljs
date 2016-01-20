@@ -1,0 +1,10 @@
+exit
+(println "Hello")
+(start-repl)
+(println "Hi")
+(enable-console-print!)
+(println "Hi")
+(println "Meow")
+(js/alert "Hello, ClojureScript")
+:cljs/quit
+(exit)
